@@ -1,0 +1,6 @@
+#include <stdio.h>
+void main(void)
+{
+	printf("Hello World");
+}
+//박찬이프로그램
